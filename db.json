@@ -1,9 +1,48 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+"users": [
+    {
+      "id":1,
+      "firstName": "Jon",
+      "lastName": "Doe",
+      "mobile": "9874563212",
+      "role": "DISTRIBUTOR",
+      "onboardingFinished": false,
+      "emailVerified": false,
+      "aadhaarVerified": false,
+      "panVerified": false
+    },
+    {
+      "id":2,
+      "firstName": "Rahul",
+      "lastName": "Krishna",
+      "mobile": "9745896412",
+      "role": "DISTRIBUTOR",
+      "onboardingFinished": false,
+      "emailVerified": false,
+      "aadhaarVerified": false,
+      "panVerified": false
+    },
+    {
+      "id":3,
+      "firstName": "tom",
+      "lastName": "curran",
+      "mobile": "974583232",
+      "role": "DISTRIBUTOR",
+      "onboardingFinished": true,
+      "emailVerified": true,
+      "aadhaarVerified": true,
+      "panVerified": true
+    },
+    {
+      "id":4,
+      "firstName": "Natsu",
+      "lastName": "D",
+      "mobile": "1234567890",
+      "role": "DISTRIBUTOR",
+      "onboardingFinished": false,
+      "emailVerified": false,
+      "aadhaarVerified": true,
+      "panVerified": true
+    }
+  ]
 }
