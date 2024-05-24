@@ -6,8 +6,8 @@
       "mobile": "9874563212",
       "role": "DISTRIBUTOR",
       "onboardingFinished": false,
-      "emailVerified": false,
+      "emailVerified": true,
       "aadhaarVerified": false,
-      "panVerified": false
+      "panVerified": true
     }
 }
