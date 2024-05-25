@@ -7,7 +7,7 @@
       "role": "DISTRIBUTOR",
       "onboardingFinished": false,
       "emailVerified": true,
-      "aadhaarVerified": false,
+      "aadhaarVerified": true,
       "panVerified": true
     }
 }
