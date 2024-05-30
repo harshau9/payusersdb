@@ -6,7 +6,7 @@
       "mobile": "9638527411",
       "role": "DISTRIBUTOR",
       "onboardingFinished": false,
-      "emailVerified": true,
+      "emailVerified": false,
       "aadhaarVerified": false,
       "panVerified": true
     }
