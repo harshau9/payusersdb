@@ -8,6 +8,6 @@
       "onboardingFinished": false,
       "emailVerified": false,
       "aadhaarVerified": false,
-      "panVerified": true
+      "panVerified": false
     }
 }
